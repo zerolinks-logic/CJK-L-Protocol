@@ -31,7 +31,7 @@ We utilize the mathematical "building-block" nature of Hangul to encode CJK sema
 ---
 
 ## 4. Sovereignty & Copyright / 主权与版权声明
-**Standard Created & Defined by:** [Your Name/ID]  
+**Standard Created & Defined by:** [zerolinks]  
 **Date of First Publication:** February 23, 2026  
 
 This repository serves as the **Prior Art (现有技术)** for the CJK-L Standard. 
